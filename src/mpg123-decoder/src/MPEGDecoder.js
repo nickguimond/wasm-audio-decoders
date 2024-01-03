@@ -1,4 +1,5 @@
-import { WASMAudioDecoderCommon } from "@wasm-audio-decoders/common";
+// import { WASMAudioDecoderCommon } from "@wasm-audio-decoders/common";
+import WASMAudioDecoderCommon from "../../common/src/WASMAudioDecoderCommon.js";
 
 import EmscriptenWASM from "./EmscriptenWasm.js";
 
